@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
 
 I’m a seasoned Technical Lead and Software Engineer with 9+ years of experience. 
 \
