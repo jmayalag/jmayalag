@@ -4,7 +4,8 @@ I’m a seasoned Technical Lead and Software Engineer with 9+ years of experienc
 \
 I specialize in leading and mentoring teams in developing products that help people in everyday life.
 
-- I mainly dabble with Javascript/Typescript, React, React Native & NextJs.
+- 🧑🏻‍💻 I mainly dabble in Typescript, React, React Native & NextJs.
+- 🐍 For backend I prefer Kotlin and Python.
 - 📚 I'm starting to love building with Astro. It's amazing for static websites.
 - 💬 Ask me about anything related to web development, or mobile development!
 - 📫 How to reach me: jordan@jordanbuilds.io
