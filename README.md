@@ -1,6 +1,6 @@
 ### Hello there <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
 
-I’m a seasoned Technical Lead and Software Engineer with 9+ years of experience. 
+I’m a Technical Lead and Software Engineer
 \
 I specialize in leading and mentoring teams in developing products that help people in everyday life.
 
