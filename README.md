@@ -1,4 +1,4 @@
-### Hello there <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
+# Hello there, I'm Jordan <img src='./assets/hi.gif' alt='Hi' width="36"/>
 
 I’m a Technical Lead and Software Engineer
 \
@@ -6,6 +6,14 @@ I specialize in leading and mentoring teams in developing products that help peo
 
 - 🧑🏻‍💻 I mainly dabble in Typescript, React, React Native & NextJs.
 - 🐍 For backend I prefer Kotlin and Python.
-- 📚 I'm starting to love building with Astro. It's amazing for static websites.
+- 📚 I'm starting to love Astro. It's amazing for static websites.
 - 💬 Ask me about anything related to web development, or mobile development!
 - 📫 How to reach me: jordan@jordanbuilds.io
+
+### Let's Connect!
+
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/jordan-ayala#gh-light-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/jordan-ayala)
+&nbsp;&nbsp;
+[![website](./assets/twitter-light.svg)](https://twitter.com/jordanbuildsio#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/jordanbuildsio)
