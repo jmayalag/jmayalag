@@ -9,7 +9,7 @@ I specialize in leading and mentoring teams in developing products that help peo
 - 📚 I'm starting to love Astro. It's amazing for static websites.
 - 💬 Ask me about anything related to web development, or mobile development!
 - 📫 How to reach me: jordan@jordanbuilds.io
-- 👨🏻‍💻 More about me on: jordanbuilds.io
+- 👨🏻‍💻 More about me on: [jordanbuilds.io](https://jordanbuilds.io)
 
 ### Let's Connect!
 
