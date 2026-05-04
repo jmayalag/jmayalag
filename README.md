@@ -7,7 +7,7 @@ I specialize in leading and mentoring teams in developing products that help peo
 - 🧑🏻‍💻 I mainly dabble in Typescript, React, React Native & NextJs.
 - 🐍 For backend I prefer Kotlin and Python.
 - 📚 I'm starting to love Astro. It's amazing for static websites.
-- 💬 Ask me about anything related to web development, or mobile development!
+- 💬 Ask me about anything related to AI Agents, web development, or mobile development!
 - 📫 How to reach me: jordan@jordanbuilds.io
 - 👨🏻‍💻 More about me on: [jordanbuilds.io](https://jordanbuilds.io)
 
