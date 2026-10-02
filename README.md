@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://jordanbuilds.io"><img src="https://img.shields.io/badge/jordanbuilds.io-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://jordanbuilds.io"><img src="https://img.shields.io/badge/jordanbuilds.io-002f72?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/jordan-ayala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jordan@jordanbuilds.io"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge" alt="Email"></a>
   <a href="https://calendar.app.google/gevsD9q8Q4w5yKC37"><img src="https://img.shields.io/badge/Book_a_call-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
@@ -29,7 +29,7 @@ I'm a forward deployed AI engineer with 10+ years in software. I build agentic s
       <a href="https://tokiyo.jordanbuilds.io">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/tokiyo-dark.webp">
-          <img src="./assets/tokiyo-light.webp" alt="Tokiyo's home screen, with four pose collections to choose from" width="380">
+          <img src="./assets/tokiyo-light.webp" alt="Tokiyo's home screen, with four pose collections to choose from" width="380" height="238">
         </picture>
       </a>
       <h4><a href="https://tokiyo.jordanbuilds.io">Tokiyo</a></h4>
@@ -40,7 +40,7 @@ I'm a forward deployed AI engineer with 10+ years in software. I build agentic s
       <a href="https://jordanbuilds.io">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.webp">
-          <img src="./assets/portfolio-light.webp" alt="The jordanbuilds.io home page: a bento grid of frosted glass tiles" width="380">
+          <img src="./assets/portfolio-light.webp" alt="The jordanbuilds.io home page: a bento grid of frosted glass tiles" width="380" height="238">
         </picture>
       </a>
       <h4><a href="https://jordanbuilds.io">jordanbuilds.io</a></h4>
