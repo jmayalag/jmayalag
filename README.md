@@ -37,18 +37,70 @@ I'm a forward deployed AI engineer with 10+ years in software. I build agentic s
       <p><b>Next.js · React · TypeScript · Tailwind · Are.na API</b></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/jmayalag/portfolio">
+      <a href="https://jordanbuilds.io">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.webp">
           <img src="./assets/portfolio-light.webp" alt="The jordanbuilds.io home page: a bento grid of frosted glass tiles" width="380">
         </picture>
       </a>
-      <h4><img src="./assets/jordanbuilds.webp" width="20" height="20" alt="" align="top">&nbsp;<a href="https://github.com/jmayalag/portfolio">jordanbuilds.io</a></h4>
+      <h4><img src="./assets/jordanbuilds.webp" width="20" height="20" alt="" align="top">&nbsp;<a href="https://jordanbuilds.io">jordanbuilds.io</a></h4>
       <p>My portfolio: a static bento site in six languages, with frosted glass over a GPU-gated WebGL shader. It scores 99+ on mobile Lighthouse.</p>
       <p><b>Astro · Tailwind · three.js · Cloudflare Pages · Playwright</b></p>
     </td>
   </tr>
 </table>
+
+### 📦 Open source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐍&nbsp;<a href="https://github.com/jmayalag/snek">snek</a></h4>
+      <p>A terminal snake game in Python and <code>curses</code>, plus a browser port. The repo doubles as a tutorial: ten tagged, runnable steps from a printed board to the finished game, bugs and fixes included.</p>
+      <p>🔵 Python · <a href="https://jmayalag.github.io/snek/">Play it</a> · <a href="https://jmayalag.github.io/snek/tutorial.html">Tutorial</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈&nbsp;<a href="https://github.com/jmayalag/seer">seer</a></h4>
+      <p>An R package and research scripts that train machine-learning models to predict price direction in the Forex market, then backtest hybrid strategies that combine them with technical analysis.</p>
+      <p>🔷 R · <a href="https://github.com/jmayalag/OHLCMerge">Companion: OHLCMerge</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬&nbsp;<a href="https://github.com/jmayalag/ffmpeg-docker">ffmpeg-docker</a></h4>
+      <p>Dockerfiles for static FFmpeg 7.1 builds on AWS Lambda (Node.js 20) and Amazon Linux 2023, with H.264, AAC, Opus, VP9, AV1 and WebP support.</p>
+      <p>⚫ Dockerfile</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🇵🇾&nbsp;<a href="https://github.com/jmayalag/awesome-remote-paraguay">awesome-remote-paraguay</a></h4>
+      <p>A Spanish-language FAQ for remote workers in Paraguay: invoicing foreign clients, receiving transfers, taxes, and where to find remote jobs.</p>
+      <p>📝 Markdown</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🦠&nbsp;<a href="https://github.com/jmayalag/covid19-scrape">covid19-scrape</a></h4>
+      <p>Built in 2020 to scrape Paraguay's official COVID-19 case count from the health ministry's site and publish it as JSON on GitHub Pages every 30 minutes.</p>
+      <p>🟡 JavaScript · <a href="https://jmayalag.github.io/covid19-scrape/cases.json">JSON feed</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📰&nbsp;<a href="https://github.com/jmayalag/Newster">Newster</a></h4>
+      <p>An Android news reader built to show the Architecture Components working together: Room, Paging, Navigation, MVVM, and coroutines with Flow.</p>
+      <p>🟣 Kotlin</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>A few more</b></summary>
+<br>
+
+- 🔷 **[OHLCMerge](https://github.com/jmayalag/OHLCMerge)**: an R package that merges OHLC price CSVs grouped by dataset. seer uses it for data prep.
+- 🟣 **[RandomUser](https://github.com/jmayalag/RandomUser)**: an Android app on the Architecture Components that browses profiles from randomuser.me.
+- 🟡 **[linkedin-latex](https://github.com/jmayalag/linkedin-latex)**: generates a LaTeX and PDF résumé from JSON.
+- 🟡 **[bloodborne-quotes](https://github.com/jmayalag/bloodborne-quotes)**: a React quote generator styled after Bloodborne's loading screen ([demo](https://jmayalag.github.io/bloodborne-quotes/)).
+
+</details>
 
 ### 🧰 Toolbox
 
