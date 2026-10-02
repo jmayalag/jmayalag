@@ -13,7 +13,7 @@
   <a href="https://calendar.app.google/gevsD9q8Q4w5yKC37"><img src="https://img.shields.io/badge/Book_a_call-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
 </p>
 
-I'm a forward deployed AI engineer with 10+ years in software. I build agentic systems, from real-time voice agents to the tool-calling backends behind them, and ship them to production alongside the teams that run them. Before that I led engineering teams, shipped mobile apps, and built ML systems for healthcare and logistics.
+I'm a forward deployed AI engineer with 12+ years in software. I build agentic systems, from real-time voice agents to the tool-calling backends behind them, and ship them to production alongside the teams that run them. Before that I led engineering teams, shipped mobile apps, and built ML systems for healthcare and logistics.
 
 ### Right now
 
